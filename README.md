@@ -5,5 +5,5 @@ The code for the project is being stored in a GitHub repository. The team wants 
 
 They also want to display the status of that most recent test directly in the repo’s README file.
 
-# this will add build status badge to git repo
+# This command will add build status badge to git repo
 [![Build Status](http://15.156.234.231/buildStatus/icon?job=challenge_git_jenkins_pipeline)](http://15.156.234.231/job/challenge_git_jenkins_pipeline/)
